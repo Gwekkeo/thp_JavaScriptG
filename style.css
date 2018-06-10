@@ -1,0 +1,29 @@
+body{
+	width: 70%;
+	margin: auto;
+}
+
+p{
+	text-align: justify;
+}
+
+h1,h2{
+	text-decoration: underline;
+}
+div{
+	margin-bottom: 10px;
+	border: 1px solid pink;
+}
+
+blockquote{
+	border: 1px solid pink;
+}
+
+.blueThing{
+	background-color: blue;
+	color: white;
+}
+
+.test{
+	font-size: 50px;
+}
