@@ -1,4 +1,4 @@
-var temps = 10000; // 10.000 = 10secondes
+var temps = 1000; // 10.000 = 10secondes
 var message = "GO VOIR CE SITE";
 
 setTimeout(function() {
