@@ -1,7 +1,7 @@
 README.md :
 
 Apprentissage du javaScript
-Ajout d'un BOUTON PSYCHEDELIQUE
++ Ajout d'un BOUTON PSYCHEDELIQUE
 + Ajout d'un MESSAGE D'ALERTE
 
 
